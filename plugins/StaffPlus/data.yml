@@ -1,0 +1,10 @@
+0c6e11a6-0c50-3ce3-a947-b69aa2771571:
+  name: Nycolazs
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
